@@ -34,7 +34,7 @@
          <snapshots>
             <enabled>true</enabled>
         </snapshots>
-		<url>file:///H:/apache-maven-3.6.0/repo</url>
+		<url>H:/apache-maven-3.6.0/repo</url>
 	</repository>
     
   </repositories>

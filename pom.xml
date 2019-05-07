@@ -38,7 +38,12 @@
 	</repository>
     
   </repositories>
-  
+  <distributionManagement>
+        <repository>
+              <id>localDeploy</id>
+              <url>file://H:/apache-maven-3.6.0/repo</url>
+        </repository>
+      </distributionManagement>
 	
   <dependencies>
     <dependency>

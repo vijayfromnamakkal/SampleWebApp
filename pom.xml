@@ -24,7 +24,7 @@
 	<developerConnection>scm:git:https://github.com/vijayfromnamakkal/SampleWebApp.git</developerConnection>
     <tag>v2.0</tag>
   </scm>
-   <repositories>
+   <!--repositories>
     <repository>
 		<id>localDeploy</id>
 		<name>SampleWebAppV1</name>
@@ -37,7 +37,7 @@
 		<url>file://H:/apache-maven-3.6.0/repo</url>
 	</repository>
     
-  </repositories>
+  </repositories-->
   <distributionManagement>
         <repository>
               <id>nexus</id>

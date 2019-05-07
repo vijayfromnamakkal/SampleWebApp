@@ -28,6 +28,12 @@
     <repository>
 		<id>localDeploy</id>
 		<name>SampleWebAppV1</name>
+		<releases>
+                        <enabled>true</enabled>
+                </releases>
+                <snapshots>
+                        <enabled>false</enabled>
+                </snapshots>
 		<url>file://H:/apache-maven-3.6.0/repo</url>
 	</repository>
     

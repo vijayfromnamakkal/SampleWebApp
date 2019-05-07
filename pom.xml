@@ -33,7 +33,8 @@
         </releases>
          <snapshots>
             <enabled>true</enabled>
-        </snapshots>		
+        </snapshots>
+		<url>http://localhost:8082/nexus/content/repositories/snapshots</url>
 	</repository>
     
   </repositories>

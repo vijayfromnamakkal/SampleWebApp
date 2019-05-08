@@ -34,7 +34,7 @@
          <snapshots>
             <enabled>true</enabled>
         </snapshots>
-		<url>H:/apache-maven-3.6.0/repo</url>
+		<url>http://localhost:8083/nexus/content</url>
 	</repository>
     
   </repositories>

@@ -24,7 +24,7 @@
 	<developerConnection>scm:git:https://github.com/vijayfromnamakkal/SampleWebApp.git</developerConnection>
     <tag>v2.5</tag>
   </scm>
-   <repositories>
+   <!--repositories>
     <repository>
 		<id>localDeploy</id>
 		<name>SampleWebAppV1</name>
@@ -35,9 +35,9 @@
             <enabled>true</enabled>
         </snapshots>
 		<url>http://localhost:8083/nexus/content</url>
-	</repository>
-    
-  </repositories>
+	</repository>    
+  </repositories-->
+  
   <distributionManagement>
         <repository>
               <id>nexus</id>

@@ -6,3 +6,4 @@ release.properties
 target/SampleWebApp.war
 target/SampleWebApp/
 target/checkout/
+log

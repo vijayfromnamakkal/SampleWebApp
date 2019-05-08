@@ -1,3 +1,8 @@
 */target/*
 target/classes/test.properties
 target/maven-archiver/pom.properties
+pom.xml.releaseBackup
+release.properties
+target/SampleWebApp.war
+target/SampleWebApp/
+target/checkout/
